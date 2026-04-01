@@ -1,0 +1,9 @@
+{
+  "name": "onboard-new-engineer",
+  "description": "Step-by-step onboarding for new engineers — environment setup, codebase tour, and first PR guide",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Onboarding",
+  "keywords": ["onboarding", "setup", "new-hire", "engineer"],
+  "skills": ["./skills/new-engineer"]
+}

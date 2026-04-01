@@ -1,0 +1,9 @@
+{
+  "name": "onboard-product-tour",
+  "description": "Guided product walkthrough for new team members to understand features and user flows",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Onboarding",
+  "keywords": ["product", "tour", "walkthrough", "features"],
+  "skills": ["./skills/product-tour"]
+}

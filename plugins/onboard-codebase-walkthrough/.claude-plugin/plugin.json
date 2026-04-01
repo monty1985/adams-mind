@@ -1,0 +1,9 @@
+{
+  "name": "onboard-codebase-walkthrough",
+  "description": "Deep dive into codebase architecture, key modules, and design patterns",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Onboarding",
+  "keywords": ["codebase", "architecture", "walkthrough", "modules"],
+  "skills": ["./skills/codebase-walkthrough"]
+}
