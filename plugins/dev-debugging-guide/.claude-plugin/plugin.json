@@ -1,0 +1,9 @@
+{
+  "name": "dev-debugging-guide",
+  "description": "Systematic debugging workflow with root cause analysis and fix verification",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Development",
+  "keywords": ["debugging", "bug", "troubleshoot", "root-cause"],
+  "skills": ["./skills/debugging-guide"]
+}

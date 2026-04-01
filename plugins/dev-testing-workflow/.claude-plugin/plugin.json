@@ -1,0 +1,9 @@
+{
+  "name": "dev-testing-workflow",
+  "description": "End-to-end testing strategy with unit, integration, and E2E test generation",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Development",
+  "keywords": ["testing", "tdd", "unit-test", "integration", "e2e"],
+  "skills": ["./skills/testing-workflow"]
+}

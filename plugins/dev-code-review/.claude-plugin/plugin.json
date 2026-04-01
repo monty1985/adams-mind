@@ -1,0 +1,9 @@
+{
+  "name": "dev-code-review",
+  "description": "Systematic code review workflow with checklist, security scan, and feedback templates",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Development",
+  "keywords": ["code-review", "review", "quality", "security"],
+  "skills": ["./skills/code-review"]
+}

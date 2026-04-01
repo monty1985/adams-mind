@@ -1,0 +1,9 @@
+{
+  "name": "dev-api-design",
+  "description": "RESTful API design with OpenAPI specs, validation, and documentation generation",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Development",
+  "keywords": ["api", "rest", "openapi", "design", "documentation"],
+  "skills": ["./skills/api-design"]
+}
