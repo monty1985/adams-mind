@@ -1,18 +1,67 @@
 {
   "name": "adams-mind",
-  "description": "Adams Mind — internal skills for product management, development, and team onboarding",
-  "owner": { "name": "Adams Mind Team" },
+  "owner": {
+    "name": "Adams Mind Team"
+  },
+  "metadata": {
+    "description": "Adams Mind — internal skills for product management, development, and team onboarding",
+    "version": "1.0.0"
+  },
   "plugins": [
-    { "name": "pm-sprint-planning", "path": "./plugins/pm-sprint-planning" },
-    { "name": "pm-roadmap-builder", "path": "./plugins/pm-roadmap-builder" },
-    { "name": "pm-user-story-writer", "path": "./plugins/pm-user-story-writer" },
-    { "name": "pm-backlog-grooming", "path": "./plugins/pm-backlog-grooming" },
-    { "name": "dev-code-review", "path": "./plugins/dev-code-review" },
-    { "name": "dev-testing-workflow", "path": "./plugins/dev-testing-workflow" },
-    { "name": "dev-api-design", "path": "./plugins/dev-api-design" },
-    { "name": "dev-debugging-guide", "path": "./plugins/dev-debugging-guide" },
-    { "name": "onboard-new-engineer", "path": "./plugins/onboard-new-engineer" },
-    { "name": "onboard-product-tour", "path": "./plugins/onboard-product-tour" },
-    { "name": "onboard-codebase-walkthrough", "path": "./plugins/onboard-codebase-walkthrough" }
+    {
+      "name": "pm-sprint-planning",
+      "description": "Guides sprint planning ceremonies with structured agendas, story pointing, and capacity tracking",
+      "source": "./plugins/pm-sprint-planning"
+    },
+    {
+      "name": "pm-roadmap-builder",
+      "description": "Build and maintain product roadmaps with prioritization frameworks and stakeholder alignment",
+      "source": "./plugins/pm-roadmap-builder"
+    },
+    {
+      "name": "pm-user-story-writer",
+      "description": "Write user stories with acceptance criteria, edge cases, and technical considerations",
+      "source": "./plugins/pm-user-story-writer"
+    },
+    {
+      "name": "pm-backlog-grooming",
+      "description": "Structured backlog refinement with prioritization, estimation, and cleanup",
+      "source": "./plugins/pm-backlog-grooming"
+    },
+    {
+      "name": "dev-code-review",
+      "description": "Systematic code review workflow with checklist, security scan, and feedback templates",
+      "source": "./plugins/dev-code-review"
+    },
+    {
+      "name": "dev-testing-workflow",
+      "description": "End-to-end testing strategy with unit, integration, and E2E test generation",
+      "source": "./plugins/dev-testing-workflow"
+    },
+    {
+      "name": "dev-api-design",
+      "description": "RESTful API design with OpenAPI specs, validation, and documentation generation",
+      "source": "./plugins/dev-api-design"
+    },
+    {
+      "name": "dev-debugging-guide",
+      "description": "Systematic debugging workflow with root cause analysis and fix verification",
+      "source": "./plugins/dev-debugging-guide"
+    },
+    {
+      "name": "onboard-new-engineer",
+      "description": "Step-by-step onboarding for new engineers — environment setup, codebase tour, and first PR guide",
+      "source": "./plugins/onboard-new-engineer"
+    },
+    {
+      "name": "onboard-product-tour",
+      "description": "Guided product walkthrough for new team members to understand features and user flows",
+      "source": "./plugins/onboard-product-tour"
+    },
+    {
+      "name": "onboard-codebase-walkthrough",
+      "description": "Deep dive into codebase architecture, key modules, and design patterns",
+      "source": "./plugins/onboard-codebase-walkthrough"
+    }
   ]
 }
