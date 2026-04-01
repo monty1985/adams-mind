@@ -1,0 +1,18 @@
+{
+  "name": "adams-mind",
+  "description": "Adams Mind — internal skills for product management, development, and team onboarding",
+  "owner": { "name": "Adams Mind Team" },
+  "plugins": [
+    { "name": "pm-sprint-planning", "path": "./plugins/pm-sprint-planning" },
+    { "name": "pm-roadmap-builder", "path": "./plugins/pm-roadmap-builder" },
+    { "name": "pm-user-story-writer", "path": "./plugins/pm-user-story-writer" },
+    { "name": "pm-backlog-grooming", "path": "./plugins/pm-backlog-grooming" },
+    { "name": "dev-code-review", "path": "./plugins/dev-code-review" },
+    { "name": "dev-testing-workflow", "path": "./plugins/dev-testing-workflow" },
+    { "name": "dev-api-design", "path": "./plugins/dev-api-design" },
+    { "name": "dev-debugging-guide", "path": "./plugins/dev-debugging-guide" },
+    { "name": "onboard-new-engineer", "path": "./plugins/onboard-new-engineer" },
+    { "name": "onboard-product-tour", "path": "./plugins/onboard-product-tour" },
+    { "name": "onboard-codebase-walkthrough", "path": "./plugins/onboard-codebase-walkthrough" }
+  ]
+}
