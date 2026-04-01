@@ -1,0 +1,9 @@
+{
+  "name": "pm-sprint-planning",
+  "description": "Guides sprint planning ceremonies with structured agendas, story pointing, and capacity tracking",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Product Management",
+  "keywords": ["sprint", "planning", "agile", "scrum"],
+  "skills": ["./skills/sprint-planning"]
+}

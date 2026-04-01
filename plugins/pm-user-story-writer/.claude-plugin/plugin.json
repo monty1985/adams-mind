@@ -1,0 +1,9 @@
+{
+  "name": "pm-user-story-writer",
+  "description": "Write user stories with acceptance criteria, edge cases, and technical considerations",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Product Management",
+  "keywords": ["user-story", "requirements", "acceptance-criteria", "agile"],
+  "skills": ["./skills/user-story-writer"]
+}

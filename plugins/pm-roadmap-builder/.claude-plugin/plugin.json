@@ -1,0 +1,9 @@
+{
+  "name": "pm-roadmap-builder",
+  "description": "Build and maintain product roadmaps with prioritization frameworks and stakeholder alignment",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Product Management",
+  "keywords": ["roadmap", "strategy", "prioritization", "planning"],
+  "skills": ["./skills/roadmap-builder"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pm-backlog-grooming",
+  "description": "Structured backlog refinement with prioritization, estimation, and cleanup",
+  "version": "1.0.0",
+  "author": { "name": "Adams Mind Team" },
+  "category": "Product Management",
+  "keywords": ["backlog", "grooming", "refinement", "estimation"],
+  "skills": ["./skills/backlog-grooming"]
+}
